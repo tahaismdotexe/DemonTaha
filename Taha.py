@@ -206,7 +206,7 @@ def Zeek():
     print logo1
     print '\x1b[1;93m[1]  START CLONING'
     time.sleep(0.10)
-    print '\x1b[1;94m[2] Sk FB ACCOUNT ksaif113'
+    print '\x1b[1;94m[2] Tk FB ACCOUNT MuhammadTahaHussainKhan'
     time.sleep(0.10)
     print '\x1b[1;95m[3] MORE INFO'
     time.sleep(0.10)
