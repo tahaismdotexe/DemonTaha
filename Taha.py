@@ -252,7 +252,7 @@ def action():
     jalan('\033[1;96m▬▬▬▬WEB DEVOLPR')
     jalan("\033[1;96m▬▬▬▬▬HACKER")
     jalan("\033[1;96m▬▬▬▬▬▬TRICKX MASTER")
-    jalan('\033[1;96m▬▬▬▬▬▬▬DEMON'')
+    jalan('\033[1;96m▬▬▬▬▬▬▬DEMON')
 
     jalan ('\033[1;96m Total Number of IDs: '+xxx)
     jalan ('\033[1;95mCode you choosed: '+c)
